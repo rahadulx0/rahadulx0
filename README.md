@@ -34,6 +34,16 @@
 
 ---
 
+## GitHub Stats
+
+![mrif449's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&layout=compact&theme=radical)
+
+---
+
 ### 🌐 Connect with Me:
 <p align="center">
   <a href="https://linkedin.com/in/mrif449" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
