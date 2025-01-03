@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=radical&count_private=true" alt="mrif449's GitHub Stats" />
-  [(https://github-readme-stats.vercel.app/api?username=mrif449&include_all_commits=true&theme=aura)](https://github.com/mrif449/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=mrif449&include_all_commits=true&theme=aura" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
