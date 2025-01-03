@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=radical&count_private=true" alt="mrif449's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrif449&theme=radical" alt="mrif449's Streak" />
+  [(https://github-readme-stats.vercel.app/api?username=mrif449&include_all_commits=true&theme=aura)](https://github.com/mrif449/github-readme-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -34,9 +34,6 @@
 
 ---
 
-## GitHub Stats
-
-![mrif449's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=radical)
 
 ## Top Languages
 
