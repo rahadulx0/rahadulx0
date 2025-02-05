@@ -37,7 +37,7 @@
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=mrif449&theme=dark&token=${PAT_1})
 
 ---
 
