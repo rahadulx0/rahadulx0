@@ -115,7 +115,7 @@ Currently exploring and mastering:
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahadulx0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://giub-readme-thactivity-graph.vercel.app/graph?username=rahadulx0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ I'm always interested in collaborating on innovative projects, discussing techno
 - 🌐 **Portfolio:** [rahadul.vercel.app](https://www.rahadul.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/rahadulx0](https://linkedin.com/in/rahadulx0)
 - 📧 **Email:** mr.if449@gmail.com
-- 🐦 **Twitter:** [@mr.if449](https://twitter.com/rahadulx0)
+- 🐦 **Twitter:** [@rahadukx0(https://twitter.com/rahadulx0)
 
 ---
 
