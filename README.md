@@ -1,144 +1,171 @@
-<h1 align="center">Hi 👋, I'm Rahadul Islam</h1>
-<h3 align="center">Salesforce Developer | Full Stack Engineer | Problem Solver</h3>
-
+<!-- Header -->
 <p align="center">
-  <a href="https://www.rahadul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rahadulx0"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mr.if449@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://twitter.com/mr.if449"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,50:6E40C9,100:0D1117&height=210&section=header&text=Rahadul%20Islam&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Engineering%20the%20Digital%20Tomorrow&descSize=18&descAlignY=58&animation=fadeIn" alt="Rahadul Islam" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahadulx0&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rahadulx0?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" />
-</p>
-
----
-
-## 🚀 About Me
-
-**Salesforce Developer** at **[Inovi Solutions](https://www.inovisolutions.com)** with a strong foundation in full stack web development. I specialize in building scalable cloud solutions and crafting seamless user experiences. As a CSE graduate, I combine theoretical knowledge with practical problem-solving skills to deliver impactful software solutions.
-
-- 🔭 Currently architecting enterprise Salesforce solutions with Apex, LWC, and automation tools
-- 🌱 Expanding expertise in Data Science, advanced MERN stack patterns, and system design
-- 💡 Passionate about clean code, performance optimization, and modern development practices
-- 🏆 Active in competitive programming and open-source contributions
-- 📈 Always learning, always building, always improving
-
----
-
-## 💼 Professional Experience
-
-**Salesforce Developer** @ Inovi Solutions
-- Developing custom Salesforce applications using Apex, Lightning Web Components, and declarative tools
-- Designing and implementing complex business logic, triggers, and automation workflows
-- Building seamless integrations between Salesforce and external systems via REST/SOAP APIs
-- Optimizing SOQL queries and implementing best practices for scalability and performance
-
----
-
-## 🛠️ Technical Arsenal
-
-### Salesforce Ecosystem
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![LWC](https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce_APIs-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-
-**Core Competencies:** Apex Classes & Triggers • Lightning Web Components • Aura Components • SOQL/SOSL • Flow Builder • Process Builder • REST & SOAP Integrations • Data Modeling
-
-### Full Stack Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database & Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-### Salesforce Solutions
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Enterprise CRM Platform** | Custom CRM with advanced record management, dynamic list views, and real-time data updates | Apex, LWC, SOQL, JavaScript |
-| **Hotel Management System** | Complete booking and guest management solution with automated workflows | Apex, LWC, Flow Builder |
-| **API Integration Hub** | Middleware service connecting Salesforce with third-party APIs | Node.js, Express, Salesforce REST API |
-
-### Web Applications
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **Professional Portfolio** | Modern, responsive portfolio showcasing projects and technical skills | React, CSS3, JavaScript |
-| **Full Stack Booking App** | End-to-end booking platform with authentication and payment integration | MERN Stack, REST API |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahadulx0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahadulx0&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="170" />
+  <a href="https://rahadul.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00A1E0&center=true&vCenter=true&width=620&lines=Salesforce+Developer+%40+Inovi+Solutions;Apex+%C2%B7+LWC+%C2%B7+Integrations+%C2%B7+Automation;Full-stack+with+Next.js%2C+Node+%26+TypeScript;I+build+tools+developers+actually+use." alt="Typing intro" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahadulx0&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://rahadul.vercel.app"><img src="https://img.shields.io/badge/Portfolio-rahadul.vercel.app-00A1E0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rahadulx0"><img src="https://img.shields.io/badge/LinkedIn-rahadulx0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/mrif449"><img src="https://img.shields.io/badge/X-@mrif449-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:mr.if449@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahadulx0&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=rahadulx0&label=profile%20views&color=6E40C9&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rahadulx0?label=followers&style=flat-square&color=6E40C9" alt="Followers" />
+  <img src="https://img.shields.io/badge/based_in-Dhaka%2C_Bangladesh-6E40C9?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/open_to-collaboration-2EA043?style=flat-square" alt="Open to collaboration" />
 </p>
 
 ---
 
-## 🎓 Continuous Learning
+### `> whoami`
 
-Currently exploring and mastering:
-- Advanced Salesforce Architecture & Design Patterns
-- Data Science & Machine Learning Fundamentals
-- System Design & Scalability Best Practices
-- Cloud-Native Development (AWS, Azure)
-- Advanced Algorithms & Competitive Programming
+I'm a **Salesforce Developer at [Inovi Solutions](https://www.inovisolutions.com)** and a full-stack engineer with a CSE background. By day I build enterprise Salesforce solutions; by night I ship developer tools and web apps that remove friction from everyday work.
+
+```ts
+const rahadul = {
+  role:       "Salesforce Developer @ Inovi Solutions",
+  location:   "Dhaka, Bangladesh 🇧🇩",
+  salesforce: ["Apex", "LWC", "Aura", "SOQL/SOSL", "Flow", "REST/SOAP integrations"],
+  fullStack:  ["TypeScript", "Next.js", "React", "Node.js", "Express", "MongoDB", "MySQL"],
+  focus:      ["Salesforce developer tooling", "integration architecture", "system design"],
+  learning:   ["Data science", "cloud-native (AWS/Azure)"],
+  funFact:    "I'd rather build the tool than click the same button twice.",
+};
+```
 
 ---
 
-## 📈 Contribution Graph
+### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://giub-readme-thactivity-graph.vercel.app/graph?username=rahadulx0&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/Lightning_Web_Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+  <img src="https://img.shields.io/badge/Flow_%26_Automation-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Flow" />
+  <img src="https://img.shields.io/badge/SOQL_%2F_SOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="SOQL" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,vue,tailwind,html,css&perline=10" alt="Frontend and backend skills" />
+    <br />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,python,cpp,java,git,vercel,vscode&perline=10" alt="Data, languages and tools" />
+  </a>
 </p>
 
 ---
 
-## 💭 Developer Philosophy
+### 🔧 Salesforce developer tooling
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/sf-dev-console">⚡ SF Dev Console</a></h4>
+      <p>A local, professional web UI on top of the Salesforce CLI. Org auth, a metadata explorer, <code>package.xml</code> generation, async Metadata API retrieval, and a schema-aware SOQL console with fuzzy autocomplete and CSV export. Tokens never reach the browser, and no database is needed.</p>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Salesforce_CLI-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Salesforce CLI" />
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/SF-API-Names">🏷️ SF Field API Names</a></h4>
+      <p>A Chrome extension that shows each field's API name right next to its label on Lightning record pages, like <code>Account Name [Name]</code>. Click to copy. It reads names from the DOM and falls back to object metadata, so it covers Dynamic Forms and the highlights panel too.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+    </td>
+  </tr>
+</table>
+
+### 🚀 Featured builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/irbms">📊 IRBMS: Resource &amp; Billing</a></h4>
+      <p>An internal SaaS for a software agency. It tracks hours per project, monitors utilization, prevents over- and under-billing, auto-generates and emails PDF invoices, and keeps a full audit trail.</p>
+      <sub><b>Next.js 14 · Express · MySQL · JWT + RBAC · PDFKit</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/WC2026">⚽ World Cup 2026 Live Center</a></h4>
+      <p>Live scores, fixtures, standings, the knockout bracket, squads and a stats dashboard. A caching Express proxy feeds an auto-refreshing Next.js frontend, with no database.</p>
+      <sub><b>Next.js 15 · React 19 · Tailwind v4 · SWR · Express</b></sub><br />
+      <a href="https://wc-2026-tan.vercel.app"><img src="https://img.shields.io/badge/Live_demo-→-2EA043?style=flat-square" alt="Live demo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/Dispatch">📰 Dispatch: News CMS</a></h4>
+      <p>A production-grade blogging platform with a classic newspaper UI: a live ticker, a trending strip, category landings, and a full rich-text editor.</p>
+      <sub><b>Next.js 14 · TypeScript · Express · MongoDB</b></sub><br />
+      <a href="https://dispatch-five-lime.vercel.app"><img src="https://img.shields.io/badge/Live_demo-→-2EA043?style=flat-square" alt="Live demo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/rahadulx0/devcard">🪪 GitID: Developer ID Cards</a></h4>
+      <p>Turns any GitHub profile into a shareable visual ID card with stats, a language breakdown, top topics, and a featured repo.</p>
+      <sub><b>HTML · CSS · JavaScript · GitHub API</b></sub><br />
+      <a href="https://gitid.vercel.app"><img src="https://img.shields.io/badge/Live_demo-→-2EA043?style=flat-square" alt="Live demo" /></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+| Project | What it is | Links |
+|---|---|---|
+| **Mermaide** | Mermaid.js diagram editor with Monaco, resizable panes, and dark/light themes | [code](https://github.com/rahadulx0/Mermaide) |
+| **Password Manager** | React + Express vault with OTP auth, encryption, and a password generator | [code](https://github.com/rahadulx0/Password-Manager) |
+| **Lead Qualification SaaS** | B2B lead scoring and routing platform on Supabase/PostgreSQL | [code](https://github.com/rahadulx0/lead-qualification-saas) |
+| **Markdown Preview** | Live Markdown editor and previewer | [code](https://github.com/rahadulx0/Markdown-Preview) · [demo](https://md-prev-eta.vercel.app) |
+| **README Viewer** | Preview any GitHub README beautifully | [code](https://github.com/rahadulx0/GitHub-Readme-Viewer) · [demo](https://readmee-coral.vercel.app) |
+| **Hotel Management System** | Booking and guest management app | [code](https://github.com/rahadulx0/Hotel-Management-System) |
+| **Papier Factory** | MERN stack e-commerce project | [code](https://github.com/rahadulx0/Papier-Factory-MERN-Stack-Project) |
+| **Problem solving** | LeetCode, online-judge and contest solutions | [LeetCode](https://github.com/rahadulx0/Leetcode-Solutions) · [OJ](https://github.com/rahadulx0/Online-Judge-Solves) · [contests](https://github.com/rahadulx0/contest-solves) |
+
+</details>
+
+---
+
+### 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rahadulx0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00A1E0&fire=6E40C9&currStreakLabel=00A1E0" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=rahadulx0&theme=default&hide_border=true&ring=00A1E0&fire=6E40C9&currStreakLabel=00A1E0" />
+    <img src="https://streak-stats.demolab.com/?user=rahadulx0&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img src="./assets/github-snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+---
+
+### 🤝 Let's build something
+
+I'm always up for interesting Salesforce problems, developer-tooling ideas, and full-stack collaborations. The fastest way to reach me is [email](mailto:mr.if449@gmail.com) or [LinkedIn](https://linkedin.com/in/rahadulx0).
 
 > *"Code with purpose, build with passion, learn without limits."*
 
-I believe in writing clean, maintainable code that solves real problems. Every line should have a reason, every function a clear purpose, and every project should make someone's life easier.
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on innovative projects, discussing technology, or connecting with fellow developers. Feel free to reach out!
-
-- 🌐 **Portfolio:** [rahadul.vercel.app](https://www.rahadul.vercel.app)
-- 💼 **LinkedIn:** [linkedin.com/in/rahadulx0](https://linkedin.com/in/rahadulx0)
-- 📧 **Email:** mr.if449@gmail.com
-- 🐦 **Twitter:** [@rahadukx0(https://twitter.com/rahadulx0)
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00A1E0&height=120&section=footer" alt="" width="100%" />
 </p>
