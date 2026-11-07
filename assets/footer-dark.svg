@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Code with purpose, build with passion, learn without limits.">
+  <title>footer</title>
+  <defs>
+    <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00a1e0"/><stop offset=".5" stop-color="#8957e5"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
+  </defs>
+  <style>
+    .w1{animation:mv 14s linear infinite}
+    .w2{animation:mv 9s linear infinite reverse}
+    .w3{animation:mv 20s linear infinite}
+    @keyframes mv{from{transform:translateX(0)}to{transform:translateX(-1200px)}}
+    .q{font:italic 500 20px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif;fill:#e6edf3}
+    .a{font:500 13px 'JetBrains Mono', 'Fira Code', SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace;fill:#8b949e}
+    .in{animation:in 1.2s ease-out .3s both}
+    @keyframes in{from{opacity:0}to{opacity:1}}
+  </style>
+  <g class="in">
+    <text x="600" y="44" text-anchor="middle" class="q">“Code with purpose, build with passion, learn without limits.”</text>
+    <text x="600" y="72" text-anchor="middle" class="a">— thanks for stopping by ✦</text>
+  </g>
+  <path class="w3" d="M0 140 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 q 75 -18 150 0 t 150 0 V 200 H 0 Z" fill="url(#w)" opacity=".18"/>
+  <path class="w1" d="M0 155 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 q 100 -22 200 0 t 200 0 V 200 H 0 Z" fill="url(#w)" opacity=".35"/>
+  <path class="w2" d="M0 172 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 q 60 -14 120 0 t 120 0 V 200 H 0 Z" fill="url(#w)" opacity=".85"/>
+</svg>
