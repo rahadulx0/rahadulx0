@@ -1,8 +1,3 @@
-<!--
-  Every graphic below is self-hosted in ./assets and regenerated daily by
-  .github/workflows/profile-graphs.yml → scripts/generate.mjs (edit content there).
--->
-
 <a href="https://rahadul.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
