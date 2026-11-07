@@ -29,17 +29,34 @@
 
 I'm a **Salesforce Developer at [Inovi Solutions](https://www.inovisolutions.com)** and a full-stack engineer with a CSE background. By day I build enterprise Salesforce solutions; by night I ship developer tools and web apps that remove friction from everyday work.
 
-```ts
-const rahadul = {
-  role:       "Salesforce Developer @ Inovi Solutions",
-  location:   "Dhaka, Bangladesh 🇧🇩",
-  salesforce: ["Apex", "LWC", "Aura", "SOQL/SOSL", "Flow", "REST/SOAP integrations"],
-  fullStack:  ["TypeScript", "Next.js", "React", "Node.js", "Express", "MongoDB", "MySQL"],
-  focus:      ["Salesforce developer tooling", "integration architecture", "system design"],
-  learning:   ["Data science", "cloud-native (AWS/Azure)"],
-  funFact:    "I'd rather build the tool than click the same button twice.",
-};
-```
+<table>
+  <tr>
+    <td width="170">💼 <b>Role</b></td>
+    <td>Salesforce Developer @ <a href="https://www.inovisolutions.com">Inovi Solutions</a></td>
+  </tr>
+  <tr>
+    <td>📍 <b>Location</b></td>
+    <td>Dhaka, Bangladesh 🇧🇩</td>
+  </tr>
+  <tr>
+    <td>☁️ <b>Salesforce</b></td>
+    <td><code>Apex</code> <code>LWC</code> <code>Aura</code> <code>SOQL/SOSL</code> <code>Flow</code> <code>REST/SOAP integrations</code></td>
+  </tr>
+  <tr>
+    <td>🧱 <b>Full stack</b></td>
+    <td><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>MySQL</code></td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus</b></td>
+    <td>Salesforce developer tooling · Integration architecture · System design</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>Learning</b></td>
+    <td>Data science · Cloud-native (AWS / Azure)</td>
+  </tr>
+</table>
+
+> ⚡ **Fun fact:** I'd rather build the tool than click the same button twice.
 
 ---
 
